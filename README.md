@@ -160,6 +160,7 @@ Contributions are always welcome!
 - [ ] [Web Architecture 101](https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947)
 - [ ] [What's in a Production Web Application?](https://web.archive.org/web/20210106095747/http://stephenmann.io/post/whats-in-a-production-web-application)
 - [ ] [Distributed systems](http://book.mixu.net/distsys/single-page.html)
+- [ ] [Failover](https://blog.alexewerlof.com/p/failover)
 
 ### System design examples
 
@@ -203,6 +204,10 @@ Contributions are always welcome!
 - [ ] [Rundown of LinkedIn’s SRE practices](https://www.srepath.com/rundown-of-linkedins-sre-practices)
 - [ ] [Rundown of Uber’s SRE practice](https://www.srepath.com/rundown-of-uber-sre-practice)
 - [ ] [SRE in the Real World](https://blog.relyabilit.ie/sre-in-the-real-world)
+- [ ] [SRE Engagement Models](https://certomodo.substack.com/p/sre-engagement-models)
+- [ ] [SRE Checklist](https://github.com/bregman-arie/sre-checklist)
+- [ ] [Why bother with SLI and SLO?](https://blog.alexewerlof.com/p/why-bother-with-sli-and-slo)
+- [ ] [The System Resiliency Pyramid](https://www.codereliant.io/the-system-resiliency-pyramid)
 
 ## Resume
 
@@ -224,6 +229,7 @@ Contributions are always welcome!
 - [ ] [DevOps Guide](https://github.com/Tikam02/DevOps-Guide)
 - [ ] [Questions I ask in SRE interviews](https://dev.to/logan/questions-i-ask-in-sre-interviews-a9j)
 - [ ] [DevOps Roadmap: Learn to become a DevOps Engineer or SRE](https://roadmap.sh/devops)
+- [ ] [The Must-Know Terraform Interview Questions](https://devopsknowledge.hashnode.dev/the-must-know-terraform-interview-questions)
 
 ### Blogposts
 
@@ -235,6 +241,7 @@ Contributions are always welcome!
 - [ ] [Becoming a Site Reliability Engineer](https://www.tik.dev/blog/becoming-an-sre)
 - [ ] [How I get a job at Google as SRE](https://fabrizio2210.medium.com/how-i-get-a-job-at-google-as-sre-83d44aef7859)
 - [ ] [Become A DevOps Engineer in 2023: [Detailed Guide]](https://devopscube.com/become-devops-engineer)
+- [ ] [How to Get an SRE Role](https://certomodo.substack.com/p/how-to-get-an-sre-role)
 
 ## Books
 
