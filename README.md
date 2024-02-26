@@ -14,10 +14,13 @@ Contributions are always welcome!
 
 ## Linux
 
+- [ ] [Introduction to Linux – Full Course for Beginners](https://www.youtube.com/watch?v=sWbUDq4S6Y8)
 - [ ] [What every SRE should know about GNU/Linux shell related internals: file descriptors, pipes, terminals, user sessions, process groups and daemons](https://biriukov.dev/docs/fd-pipe-session-terminal/0-sre-should-know-about-gnu-linux-shell-related-internals-file-descriptors-pipes-terminals-user-sessions-process-groups-and-daemons)
+- [ ] [SRE deep dive into Linux Page Cache](https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre)
 
 ### Boot Process
 
+- [ ] [How Does Linux Boot Process Work?](https://youtu.be/XpFsMB6FoOs)
 - [ ] [An introduction to the Linux boot and startup processes](https://opensource.com/article/17/2/linux-boot-and-startup)
 - [ ] [What happens when we turn on computer?](https://www.cdn.geeksforgeeks.org/what-happens-when-we-turn-on-computer)
 - [ ] [What happens when we turn on computer?](https://leetcode.com/discuss/interview-question/125107/What-happens-when-we-turn-on-computer)
@@ -110,6 +113,7 @@ Contributions are always welcome!
 
 ## CI/CD
 
+- [ ] [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
 - [ ] [7 Pipeline Design Patterns for Continuous Delivery](https://www.singlestoneconsulting.com/blog/7-pipeline-design-patterns-for-continuous-delivery)
 - [ ] [CI/CD patterns](https://continuousdelivery.com/implementing/patterns)
 - [ ] [Six Strategies for Application Deployment](https://thenewstack.io/deployment-strategies)
@@ -145,22 +149,25 @@ Contributions are always welcome!
 
 ### Big O Notation, Algorithms and Data Structures
 
-- [ ] [AlgoExperts](https://www.algoexpert.io)
+- [ ] [AlgoExpert](https://www.algoexpert.io)
 - [ ] [Hacking a Google Interview – Handout 1](http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_1.pdf)
 - [ ] [Hacking a Google Interview – Handout 2](http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_2.pdf)
 - [ ] [Hacking a Google Interview – Handout 3](http://courses.csail.mit.edu/iap/interview/Hacking_a_Google_Interview_Handout_3.pdf)
 
 ## System design
 
-- [ ] [SystemsExpert course from AlgoExpert](https://www.algoexpert.io/se/product)
-- [ ] [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
+- [ ] [SystemsExpert course from AlgoExpert](https://www.algoexpert.io/systems/product)
+- [ ] [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
+- [ ] [Grokking the System Design Interview](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
 - [ ] [The System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [ ] [Crack the System Design Interview](https://www.puncsky.com/blog/2016/02/14/crack-the-system-design-interview)
+- [ ] [Crack the System Design Interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
 - [ ] [System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview)
 - [ ] [Web Architecture 101](https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947)
 - [ ] [What's in a Production Web Application?](https://web.archive.org/web/20210106095747/http://stephenmann.io/post/whats-in-a-production-web-application)
 - [ ] [Distributed systems](http://book.mixu.net/distsys/single-page.html)
 - [ ] [Failover](https://blog.alexewerlof.com/p/failover)
+- [ ] [Monoliths, Service Architecture, and Microservices](https://architecturenotes.co/granularity-of-systems)
+- [ ] [Scale From Zero To Millions Of Users](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users)
 
 ### System design examples
 
@@ -208,6 +215,8 @@ Contributions are always welcome!
 - [ ] [SRE Checklist](https://github.com/bregman-arie/sre-checklist)
 - [ ] [Why bother with SLI and SLO?](https://blog.alexewerlof.com/p/why-bother-with-sli-and-slo)
 - [ ] [The System Resiliency Pyramid](https://www.codereliant.io/the-system-resiliency-pyramid)
+- [ ] [10 Tips for Onboarding New SRE Hires](https://www.srepath.com/10-tips-for-onboarding-new-sre-hires)
+- [ ] [Starting SRE at startups and smaller organizations](https://www.srepath.com/starting-sre-at-startups-and-smaller-organizations)
 
 ## Resume
 
