@@ -88,6 +88,8 @@ Contributions are always welcome!
 - [ ] [15 Kubernetes Best Practices Every Developer Should Know](https://spacelift.io/blog/kubernetes-best-practices)
 - [ ] [THE KUBERNETES NETWORKING GUIDE](https://www.tkng.io)
 - [ ] [The life of a DNS query in Kubernetes](https://www.nslookup.io/learning/the-life-of-a-dns-query-in-kubernetes)
+- [ ] [Kubernetes YAML tips and tricks](https://itnext.io/kubernetes-yaml-tips-and-tricks-904a2c0b2b81)
+- [ ] [Kubernetes Learning Roadmap](https://github.com/techiescamp/kubernetes-learning-path)
 
 ## Infrastructure as code / Configuration management
 
@@ -110,6 +112,7 @@ Contributions are always welcome!
 - [ ] [How do database indexes work?](https://planetscale.com/blog/how-do-database-indexes-work)
 - [ ] [Redis Explained](https://architecturenotes.co/redis)
 - [ ] [Database Sharding Explained](https://architecturenotes.co/database-sharding-explained)
+- [ ] [Kafka 101](https://highscalability.com/untitled-2)
 
 ## CI/CD
 
@@ -179,7 +182,7 @@ Contributions are always welcome!
 
 ## Monitoring
 
-- [ ] [SLOs & You: A Guide To Service Level Objectives](https://www.circonus.com/2018/07/a-guide-to-service-level-objectives)
+- [ ] [Implementing SLOs](https://sre.google/workbook/implementing-slos/)
 - [ ] [Setting up Service Monitoring — The Why’s and What’s](https://amitosh.medium.com/the-whys-and-what-s-of-setting-up-service-monitoring-cc1c165ee088)
 - [ ] [How NOT to Measure Latency](https://youtu.be/lJ8ydIuPFeU)
 - [ ] [The four Golden Signals of Kubernetes monitoring](https://sysdig.com/blog/golden-signals-kubernetes)
@@ -217,6 +220,8 @@ Contributions are always welcome!
 - [ ] [The System Resiliency Pyramid](https://www.codereliant.io/the-system-resiliency-pyramid)
 - [ ] [10 Tips for Onboarding New SRE Hires](https://www.srepath.com/10-tips-for-onboarding-new-sre-hires)
 - [ ] [Starting SRE at startups and smaller organizations](https://www.srepath.com/starting-sre-at-startups-and-smaller-organizations)
+- [ ] [Things That Makes a Good Site Reliability Engineer](https://reliabilityengineering.substack.com/p/things-that-makes-a-good-site-reliability)
+- [ ] [How SRE teams are organized, and how to get started](https://cloud.google.com/blog/products/devops-sre/how-sre-teams-are-organized-and-how-to-get-started)
 
 ## Resume
 
@@ -251,6 +256,8 @@ Contributions are always welcome!
 - [ ] [How I get a job at Google as SRE](https://fabrizio2210.medium.com/how-i-get-a-job-at-google-as-sre-83d44aef7859)
 - [ ] [Become A DevOps Engineer in 2023: [Detailed Guide]](https://devopscube.com/become-devops-engineer)
 - [ ] [How to Get an SRE Role](https://certomodo.substack.com/p/how-to-get-an-sre-role)
+- [ ] [DevOps Career Path](https://www.scaler.com/blog/devops-career-path/)
+- [ ] [Key DevOps Engineer Skills You Need in 2024](https://www.scaler.com/blog/devops-engineer-skills/)
 
 ## Books
 
